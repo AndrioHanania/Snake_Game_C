@@ -1,0 +1,26 @@
+﻿  Source.c
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(53,24): warning C4047: '=': 'int' differs in levels of indirection from 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(53,48): warning C4047: '=': 'int' differs in levels of indirection from 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(65,15): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(67,83): warning C4020: 'ifDolarOnTheWay': too many actual parameters
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(95,31): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(102,23): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(117,21): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(138,31): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(145,23): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(160,21): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(181,31): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(188,23): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(203,21): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(223,31): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(230,23): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(245,21): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(275,22): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(293,31): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(352,25): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(364,19): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(383,20): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(407,23): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(482,21): warning C4133: '=': incompatible types - from 'Item *' to 'Item *'
+C:\Users\andrio\Desktop\snake game\snake game\snake game\Source.c(473,1): warning C4133: 'initializing': incompatible types - from 'Item *' to 'Item *'
+  snake game.vcxproj -> C:\Users\andrio\Desktop\snake game\snake game\Debug\snake game.exe
